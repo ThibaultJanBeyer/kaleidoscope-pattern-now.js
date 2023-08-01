@@ -14,9 +14,11 @@ How To
 + Run the Script (File > Script)
 + Make a pattern if you like (else undo and start again)
 
-![kaleidoscope-pattern-now.js how to part 1](http://kit.thibaultjanbeyer.com/scripts/illustrator/kaleidoscopics/kaleidoscope-pattern-now_part1.gif)
+## Create the Shape
+![kaleidoscope-pattern-now.js how to part 1](https://github.com/ThibaultJanBeyer/kaleidoscope-pattern-now.js/blob/master/kaleidoscope-pattern-now_part1.gif?raw=true)
 
-![kaleidoscope-pattern-now.js how to part 2](http://kit.thibaultjanbeyer.com/scripts/illustrator/kaleidoscopics/kaleidoscope-pattern-now_part2.gif)
+## Make the pattern
+![kaleidoscope-pattern-now.js how to part 2](https://github.com/ThibaultJanBeyer/kaleidoscope-pattern-now.js/blob/master/kaleidoscope-pattern-now_part2.gif?raw=true)
 
 Info
 ---------------------
